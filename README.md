@@ -1,4 +1,4 @@
-# DST490-day14
+# DST 490, Day 14: More work using shiny
 
 Example shiny app deployment through github.  In order to run this you need:
 
