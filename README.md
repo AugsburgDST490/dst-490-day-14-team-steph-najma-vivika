@@ -5,6 +5,7 @@ Today we are working on options for extending your knowledge on incorporating in
 Want to learn more about shiny and beyond? 
 - [Mastering Shiny](https://mastering-shiny.org/)
 - [htmlwidgets](https://www.htmlwidgets.org/index.html)
+- [htmlwidgets gallery](https://gallery.htmlwidgets.org/)
 
 ## Examples in this repository
 
