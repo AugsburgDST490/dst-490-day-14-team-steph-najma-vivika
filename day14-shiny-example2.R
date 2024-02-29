@@ -45,8 +45,12 @@ ui <- fluidPage(
                          choices = beatles_names)
 
     ),
+    # Main panel for displaying outputs ----
     mainPanel(
-      dygraphOutput("dygraph")
+      
+      # Output: Chart  ----
+      dygraphOutput("plot")    # Plot corresponds to the variable from the data table output below
+      
     )
   )
 )
@@ -61,7 +65,7 @@ server <- function(input, output) {
   })
 
 
-  output$dygraph <- renderDygraph({
+  output$plot <- renderDygraph({
     ds() |>
       select(year, name, n) |>
       pivot_wider(names_from = "name",values_from = "n") |>

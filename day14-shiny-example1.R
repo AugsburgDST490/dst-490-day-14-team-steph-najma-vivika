@@ -53,7 +53,7 @@ ui <- fluidPage(
     mainPanel(
 
       # Output: Chart  ----
-      plotlyOutput("plot"),   # Plot corresponds to the variable from the data table output below
+      plotlyOutput("plot"),   # Plot corresponds to the variable from the data table output below.  Additional plots need a comma at the end to carry through to next line.
       plotlyOutput("plot2")
     )
   )
