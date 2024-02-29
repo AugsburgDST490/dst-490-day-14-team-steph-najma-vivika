@@ -6,6 +6,9 @@ Want to learn more about shiny and beyond?
 - [Mastering Shiny](https://mastering-shiny.org/)
 - [htmlwidgets](https://www.htmlwidgets.org/index.html)
 - [htmlwidgets gallery](https://gallery.htmlwidgets.org/)
+- [quarto dashboards](https://quarto.org/docs/dashboards/)
+- [quarto dashboards examples](https://quarto.org/docs/dashboards/examples/)
+- [quarto websites](https://quarto.org/docs/websites/)
 
 ## Examples in this repository
 
