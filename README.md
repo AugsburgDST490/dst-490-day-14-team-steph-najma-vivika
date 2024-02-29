@@ -34,5 +34,5 @@ Minimal example of Beatles name plot using `dygraphs`
 ### `day14-shiny-example3.qmd`
 Minimal example of Hennepin County zipcodes with `leaflet`
 
- -[Using leaflet with shiny](https://rstudio.github.io/leaflet/articles/shiny.html)
+ - [Using leaflet with shiny](https://rstudio.github.io/leaflet/articles/shiny.html)
 
