@@ -2,7 +2,9 @@
 
 Today we are working on options for extending your knowledge on incorporating interactive data graphics with shiny.
 
-Want to learn more about shiny? Check out [Mastering Shiny](https://mastering-shiny.org/)
+Want to learn more about shiny and beyond? 
+- [Mastering Shiny](https://mastering-shiny.org/)
+- [htmlwidgets](https://www.htmlwidgets.org/index.html)
 
 ## Examples in this repository
 
