@@ -10,6 +10,8 @@ Want to learn more about shiny and beyond?
 - [quarto dashboards examples](https://quarto.org/docs/dashboards/examples/)
 - [quarto websites](https://quarto.org/docs/websites/)
 
+The YOUR TURN today will have you cloning a repo, of which you will add collaborators.  Information on how to do that is here [LINK](https://docs.github.com/en/enterprise-server@3.9/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository).
+
 ## Examples in this repository
 
 
